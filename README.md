@@ -118,6 +118,3 @@ Media/             # GIF et captures pour le README
 - Portfolio : `[lien]`
 - LinkedIn : `[lien]`
 
-## 📄 Licence
-
-Code sous licence MIT. Les assets tiers restent soumis à leur licence d'origine.
