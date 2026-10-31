@@ -150,7 +150,3 @@ Media/
 - Portfolio : [lien]
 - LinkedIn : [lien]
 - Contact : [email]
-
-## 📄 Licence
-
-[MIT] pour le code. Les assets tiers restent soumis à leur licence d'origine.
