@@ -1,7 +1,5 @@
 # ARCourse
-# AR Placement – Unity AR Foundation
-
-> 🇬🇧 **Summary:** a mobile AR scene built with Unity and AR Foundation. Tap the screen and a 3D model is placed on a detected real-world surface, using plane detection, point cloud visualization, raycasting and the new Input System.
+# AR Course – Unity AR Foundation
 
 ![Demo](Media/demo.gif)
 
@@ -55,7 +53,7 @@ Point Cloud  →  Plane Manager  →  Raycast Manager  →  Objet 3D placé
 
 ### Prérequis
 
-- Unity 6 avec le module de build **[Android / iOS]**
+- Unity 2022 avec le module de build **[Android / iOS]**
 - Un smartphone compatible ARCore / ARKit
 - Pour Android : mode développeur et débogage USB activés
 
