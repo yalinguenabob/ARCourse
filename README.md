@@ -149,4 +149,4 @@ Media/
 
 - Portfolio : [lien]
 - LinkedIn : [lien]
-- Contact : [yalinguenabob@gmail.com]
+- Contact : yalinguenabob@gmail.com
