@@ -706,6 +706,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Logger
       objectReference: {fileID: 0}
+    - target: {fileID: 8137050307400723134, guid: 4029aa77d7e38804ea975ac3f395afab, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8293000805308493164, guid: 4029aa77d7e38804ea975ac3f395afab, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
